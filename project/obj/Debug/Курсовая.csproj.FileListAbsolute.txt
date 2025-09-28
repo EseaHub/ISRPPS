@@ -1,0 +1,48 @@
+C:\for ub\Курсовая\bin\Debug\Курсовая.exe.config
+C:\for ub\Курсовая\bin\Debug\Курсовая.exe
+C:\for ub\Курсовая\bin\Debug\Курсовая.pdb
+C:\for ub\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
+C:\for ub\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\for ub\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\for ub\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\for ub\Курсовая\obj\Debug\Курсовая.exe
+C:\for ub\Курсовая\obj\Debug\Курсовая.pdb
+C:\for ub\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\for ub\Курсовая\obj\Debug\Курсовая.Задание.resources
+C:\for ub\Курсовая\obj\Debug\Курсовая.НеОриент.resources
+D:\Учеба\2 курс\Курсовая\bin\Debug\Курсовая.exe.config
+D:\Учеба\2 курс\Курсовая\bin\Debug\Курсовая.exe
+D:\Учеба\2 курс\Курсовая\bin\Debug\Курсовая.pdb
+D:\Учеба\2 курс\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
+D:\Учеба\2 курс\Курсовая\obj\Debug\Курсовая.Form1.resources
+D:\Учеба\2 курс\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+D:\Учеба\2 курс\Курсовая\obj\Debug\Курсовая.Задание.resources
+D:\Учеба\2 курс\Курсовая\obj\Debug\Курсовая.НеОриент.resources
+D:\Учеба\2 курс\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+D:\Учеба\2 курс\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+D:\Учеба\2 курс\Курсовая\obj\Debug\Курсовая.exe
+D:\Учеба\2 курс\Курсовая\obj\Debug\Курсовая.pdb
+C:\for ub\labki\Курсовая\bin\Debug\Курсовая.exe.config
+C:\for ub\labki\Курсовая\bin\Debug\Курсовая.exe
+C:\for ub\labki\Курсовая\bin\Debug\Курсовая.pdb
+C:\for ub\labki\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
+C:\for ub\labki\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\for ub\labki\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\for ub\labki\Курсовая\obj\Debug\Курсовая.Задание.resources
+C:\for ub\labki\Курсовая\obj\Debug\Курсовая.НеОриент.resources
+C:\for ub\labki\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\for ub\labki\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\for ub\labki\Курсовая\obj\Debug\Курсовая.exe
+C:\for ub\labki\Курсовая\obj\Debug\Курсовая.pdb
+D:\Учеба\2 курс\Курсач по ООП\Курсовая\bin\Debug\Курсовая.exe.config
+D:\Учеба\2 курс\Курсач по ООП\Курсовая\bin\Debug\Курсовая.exe
+D:\Учеба\2 курс\Курсач по ООП\Курсовая\bin\Debug\Курсовая.pdb
+D:\Учеба\2 курс\Курсач по ООП\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
+D:\Учеба\2 курс\Курсач по ООП\Курсовая\obj\Debug\Курсовая.Form1.resources
+D:\Учеба\2 курс\Курсач по ООП\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+D:\Учеба\2 курс\Курсач по ООП\Курсовая\obj\Debug\Курсовая.Задание.resources
+D:\Учеба\2 курс\Курсач по ООП\Курсовая\obj\Debug\Курсовая.НеОриент.resources
+D:\Учеба\2 курс\Курсач по ООП\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+D:\Учеба\2 курс\Курсач по ООП\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+D:\Учеба\2 курс\Курсач по ООП\Курсовая\obj\Debug\Курсовая.exe
+D:\Учеба\2 курс\Курсач по ООП\Курсовая\obj\Debug\Курсовая.pdb

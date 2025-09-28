@@ -1,0 +1,9 @@
+C:\for ub\Курсовая\bin\Release\Курсовая.exe.config
+C:\for ub\Курсовая\bin\Release\Курсовая.exe
+C:\for ub\Курсовая\bin\Release\Курсовая.pdb
+C:\for ub\Курсовая\obj\Release\Курсовая.Form1.resources
+C:\for ub\Курсовая\obj\Release\Курсовая.Properties.Resources.resources
+C:\for ub\Курсовая\obj\Release\Курсовая.csproj.GenerateResource.cache
+C:\for ub\Курсовая\obj\Release\Курсовая.csproj.CoreCompileInputs.cache
+C:\for ub\Курсовая\obj\Release\Курсовая.exe
+C:\for ub\Курсовая\obj\Release\Курсовая.pdb
